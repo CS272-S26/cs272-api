@@ -1,0 +1,86 @@
+[
+    {
+        "title": "1984",
+        "author": "George Orwell",
+        "numPages": 328,
+        "description": "A chilling dystopia exploring surveillance, totalitarianism, and the loss of individuality.",
+        "rating": 5
+    },
+    {
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "numPages": 180,
+        "description": "A story of love, ambition, and the American Dream gone wrong in the Jazz Age.",
+        "rating": 4
+    },
+    {
+        "title": "Eragon",
+        "author": "Christopher Paolini",
+        "numPages": 503,
+        "description": "A young farm boy discovers his destiny as a dragon rider.",
+        "rating": 2.5
+    },
+    {
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "numPages": 279,
+        "description": "A witty exploration of love, class, and society in 19th-century England.",
+        "rating": 4.5
+    },
+    {
+        "title": "The Hobbit",
+        "author": "J.R.R. Tolkien",
+        "numPages": 310,
+        "description": "A fantastical adventure of Bilbo Baggins on a quest to reclaim treasure from a dragon.",
+        "rating": 4.5
+    },
+    {
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "numPages": 281,
+        "description": "A powerful tale of justice and morality in a racially divided Southern town.",
+        "rating": 4
+    },
+    {
+        "title": "The Alchemist",
+        "author": "Paulo Coelho",
+        "numPages": 208,
+        "description": "A philosophical fable about following dreams and personal growth.",
+        "rating": 2
+    },
+    {
+        "title": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "numPages": 214,
+        "description": "A rebellious teen's journey through alienation and self-discovery in New York City.",
+        "rating": 3.5
+    },
+    {
+        "title": "Brave New World",
+        "author": "Aldous Huxley",
+        "numPages": 268,
+        "description": "A provocative dystopia questioning progress, individuality, and freedom in a controlled society.",
+        "rating": 4.5
+    },
+    {
+        "title": "Twilight",
+        "author": "Stephenie Meyer",
+        "numPages": 498,
+        "description": "A vampire romance with themes of forbidden love and danger.",
+        "rating": 2.5
+    },
+    {
+        "title": "Jane Eyre",
+        "author": "Charlotte Brontë",
+        "numPages": 500,
+        "description": "An inspiring narrative of resilience and self-discovery of an orphaned governess.",
+        "rating": 4.5
+    },
+    {
+        "title": "Calculus",
+        "author": "James Stewart",
+        "numPages": 387,
+        "description": "Actually a very great work, but dreaded by college students nationwide.",
+        "rating": 0.5
+    }
+]
